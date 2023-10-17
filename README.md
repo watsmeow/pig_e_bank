@@ -1,7 +1,9 @@
 # Pig E. Bank: Analytical Decision Making
-Background: Pig E. Bank, a global financial institution, wants to increase customer retention
-Objective: Identify the top risk factors that contribute to client loss
-Deliverable: A decision tree that models the identified risk factors
+**Background:** Pig E. Bank, a global financial institution, wants to increase customer retention
+
+**Objective**: Identify the top risk factors that contribute to client loss
+
+**Deliverable**: A decision tree that models the identified risk factors
 
 **Tech & skills used:** Bank data set, Excel, correlation and predictive analysis, data mining
 
